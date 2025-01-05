@@ -47,6 +47,6 @@ Authentication: Users can sign in or register to access the dashboard.
 Dashboard Features: Users can view articles, filter them, and manage payouts.
 Exporting Data: Users can export data in various formats for reporting purposes.
 
+Technical Assessment Frontend Developer - Sportsdunia Graphic Era Deemed to be University, Dehradun
 
-Your Name: jangraankii@gmail.com@example.com
-GitHub: your-github-username
+Name - Ankit Jangra
